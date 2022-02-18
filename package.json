@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayman244/react-portfolio2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayman244/react-portfolio2/issues"
+  },
+  "homepage": "https://github.com/Rayman244/react-portfolio2#readme"
+}

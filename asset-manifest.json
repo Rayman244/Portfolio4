@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio4/static/css/main.b0273aec.css",
+    "main.js": "/react-portfolio4/static/js/main.7ee16d9c.js",
+    "static/media/home-page.png": "/react-portfolio4/static/media/home-page.b1cd9ade659094a4e618.png",
+    "static/media/webDevResume.pdf": "/react-portfolio4/static/media/webDevResume.544f0f8034d80a7c4b8c.pdf",
+    "static/media/WorkScheduler.png": "/react-portfolio4/static/media/WorkScheduler.1b17a3de1e69a1e2299b.png",
+    "static/media/Weathe-Dashboard.png": "/react-portfolio4/static/media/Weathe-Dashboard.fee1ac169f5bdf9140f7.png",
+    "static/media/Podcast411.png": "/react-portfolio4/static/media/Podcast411.03e0aedc6ed0d4f05314.png",
+    "static/media/my-photo.jpeg": "/react-portfolio4/static/media/my-photo.d0ad8b38b641cc810e50.jpeg",
+    "static/media/TG_Pic.png": "/react-portfolio4/static/media/TG_Pic.d751bc5fd6c5a90593c0.png",
+    "static/media/jQuery-logo.png": "/react-portfolio4/static/media/jQuery-logo.3e194a11161affeea285.png",
+    "static/media/ExpressJS.png": "/react-portfolio4/static/media/ExpressJS.8dd09d3279d3615cf1e0.png",
+    "static/media/noteTakerHome.png": "/react-portfolio4/static/media/noteTakerHome.727e72c86cc712a2c77e.png",
+    "static/media/bootstrap-logo.png": "/react-portfolio4/static/media/bootstrap-logo.02e16df6861464872846.png",
+    "static/media/api.png": "/react-portfolio4/static/media/api.f4fe9fc243e0cb9fb304.png",
+    "static/media/JSON-Logo.png": "/react-portfolio4/static/media/JSON-Logo.6785aa8561c1825762cb.png",
+    "static/media/graphQL-Logo.png": "/react-portfolio4/static/media/graphQL-Logo.6b2ffcccbb97ab72f447.png",
+    "static/media/javascript-logo.png": "/react-portfolio4/static/media/javascript-logo.5212fc5d5eb475ed393a.png",
+    "static/media/Restful-Logo.png": "/react-portfolio4/static/media/Restful-Logo.eb5418c02fb2343d4590.png",
+    "static/media/react-logo-v2.png": "/react-portfolio4/static/media/react-logo-v2.44319306359c7112276d.png",
+    "static/media/Twitter.png": "/react-portfolio4/static/media/Twitter.f963dcac51d5020e10f3.png",
+    "static/media/DOM-Logo.png": "/react-portfolio4/static/media/DOM-Logo.1d4ae40f0f6cf0da8215.png",
+    "static/media/MobileResp.png": "/react-portfolio4/static/media/MobileResp.255d54a9ceddbcfa5dab.png",
+    "static/media/css-icon.png": "/react-portfolio4/static/media/css-icon.463e319bad8e0edf1ef7.png",
+    "static/media/nodejs-logo.svg": "/react-portfolio4/static/media/nodejs-logo.adf3246d802c95ba2e916a1855fcf573.svg",
+    "index.html": "/react-portfolio4/index.html",
+    "main.b0273aec.css.map": "/react-portfolio4/static/css/main.b0273aec.css.map",
+    "main.7ee16d9c.js.map": "/react-portfolio4/static/js/main.7ee16d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0273aec.css",
+    "static/js/main.7ee16d9c.js"
+  ]
+}

@@ -31,36 +31,28 @@ export default function Navigator() {
               className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
               aria-current="page"
               href="/"
-              onClick={function(){
-
-              }}
+              onClick={() => setCurrentPage("Home")}
             >
               About Me
             </a>
             <a
               className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
               href="/Portfolio"
-              onClick={function(){
-                
-              }}
+              onClick={() => setCurrentPage("Projects")}
             >
               Portfolio
             </a>
             <a
               className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
               href="/Contact"
-              onClick={function(){
-                
-              }}
+              onClick={() => setCurrentPage("Contact")}
             >
               Contact
             </a>
             <a
                className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
               href="/Resume"
-              onClick={function(){
-                
-              }}
+              onClick={() => setCurrentPage("Resume")}
             >
               Resume
             </a>

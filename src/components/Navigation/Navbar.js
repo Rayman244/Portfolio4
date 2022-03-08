@@ -1,8 +1,10 @@
-import React from "react";
+import React,{useState} from "react";
 import { Button } from "react-bootstrap";
 import './NavStyles.css'
 
-export default function Navigator({ currentPage, handlePageChange }) {
+export default function Navigator() {
+  const[currentPage, setCurrentPage]=useState('about')
+
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navigator pt-0">
       <div className="container-fluid navigator">
@@ -28,29 +30,37 @@ export default function Navigator({ currentPage, handlePageChange }) {
             <a
               className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
               aria-current="page"
-              href="#AboutMe"
-              onClick={() => handlePageChange("Home")}
+              href="/"
+              onClick={function(){
+
+              }}
             >
               About Me
             </a>
             <a
               className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
-              href="#Portfolio"
-              onClick={() => handlePageChange("Projects")}
+              href="/Portfolio"
+              onClick={function(){
+                
+              }}
             >
               Portfolio
             </a>
             <a
               className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-              href="#Contact"
-              onClick={() => handlePageChange("Contact")}
+              href="/Contact"
+              onClick={function(){
+                
+              }}
             >
               Contact
             </a>
             <a
                className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-              href="#Resume"
-              onClick={() => handlePageChange("Resume")}
+              href="/Resume"
+              onClick={function(){
+                
+              }}
             >
               Resume
             </a>
